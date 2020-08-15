@@ -148,4 +148,10 @@
       <p>agora</p>
     </a>
   </td>
+  <td align="center">
+    <a href="infos/北森.md">
+      <img src="assets/logo-北森.jpg" width="140px">
+      <p>北森</p>
+    </a>
+  </td>
 </table>
