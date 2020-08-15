@@ -138,15 +138,20 @@
   </td>
   <td align="center">
     <a href="infos/快手.md">
-      <img src="assets/logo-kwai.jpg" width="140px">
+      <img src="assets/logo-快手.jpg" width="140px">
       <p>快手</p>
     </a>
   </td>
   <td align="center">
     <a href="infos/agora.md">
       <img src="assets/logo-agora.png" width="140px">
-      <p>声网Agora</p>
+      <p>agora</p>
     </a>
   </td>
-  </tr>
+  <td align="center">
+    <a href="infos/北森.md">
+      <img src="assets/logo-北森.jpg" width="140px">
+      <p>北森</p>
+    </a>
+  </td>
 </table>
